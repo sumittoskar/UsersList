@@ -1,0 +1,15 @@
+.navbar {
+    background-color: #f8f8f8;
+    border: 1px solid #e7e7e7;
+    height: 35px;
+  }
+  
+  .navbar a{
+      background-color: #FFFFFF;
+      color: #555;
+      padding: 10px;
+  }
+  .navbar a.active{
+    background-color: #e7e7e7;
+    color: #007bff;
+}
